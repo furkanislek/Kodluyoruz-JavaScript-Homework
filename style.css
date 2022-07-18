@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    color: rgb(247, 101, 48);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
+body {
+    background-color: rgb(75, 75, 75);
+}
+
+#title h2{
+    font-weight: 500;
+    margin-top: 50px;
+}
+
